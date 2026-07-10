@@ -1,0 +1,5 @@
+case_id,shift_type,label,prediction,confidence,correct
+V1,viewpoint,robot-perception-0,robot-perception-0,0.55,true
+V2,context,robot-perception-1,robot-perception-0,0.65,false
+V3,annotation,robot-perception-0,robot-perception-0,0.75,true
+V4,domain,robot-perception-1,robot-perception-0,0.85,false

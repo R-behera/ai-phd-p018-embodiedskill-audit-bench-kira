@@ -1,0 +1,13 @@
+{
+  "professor": "Zsolt Kira",
+  "university": "Georgia Institute of Technology",
+  "program": "ML PhD / College of Computing",
+  "research_area": "ML, robot perception, continual & self-supervised learning",
+  "representative_paper": "Learning to Cluster in Order to Transfer Across Domains and Tasks; 2018; ICLR",
+  "paper_link": "https://scholar.google.com/scholar?q=Learning+to+Cluster+in+Order+to+Transfer+Across+Domains+and+Tasks",
+  "project_family": "vision",
+  "focus": "robot perception",
+  "value_add_artifact": "distribution-shift and failure-analysis benchmark for vision/multimodal models",
+  "next_step": "Replace seed cases with public/lab visual examples and run one real pretrained baseline.",
+  "generated_for": "professor outreach value-add starter"
+}
